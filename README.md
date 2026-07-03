@@ -1,4 +1,4 @@
-Meri
+
 Merhaba! Ben 16 yaşında, yazılım dünyasına yeni adım atmış bir lise öğrencisiyim. Bu, benim GitHub üzerindeki ilk projem.
 
 Proje Amacı
